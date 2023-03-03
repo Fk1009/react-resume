@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Farhan Khan",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"Want to involve myself in a challenging environment offering scope for Growth & Development and an opportunity to apply my learning to effectively contribute towards the achievement of the organizational objective.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "khanfarhan.frk@gmail.com",
+    "phone": "7974806285",
+    "github":"https://github.com/Fk1009",
+    "project":"https://github.com/Fk1009",
+    "address":{
+      "street":"39, Shri Pal Marg Lohe Ka Pull",
+      "city":"Ujjain",
+      "state":"Madhya Pradesh",
+      "zip": "456006"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"FarhanReactLaravel.docx",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Fk1009",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Prashanti Institute of Technology & Science, Ujjain",
+        "degree":"Bachelors Of Engineering",
+        "graduated":"April 2014",
+        "description":"Bachelor of engineering from Prashanti institute of technology and science, Ujjain affiliated to RGTU, Bhopal with specialization in Electronics And Communication (2010-2014)( CGPA 7.46)"
+      },
+      {
+        "school":"Study Home Higher Secondery School",
+        "degree":"MP Board",
+        "graduated":"April 2010",
+        "description":"Higher secondary certificate from board of secondary education Bhopal with 75% in 2010"
+      }
+    ],
+    "work":[  
+      {
+        "company":"Valere Labs Pvt Ltd, Indore",
+        "title":"Software Developer",
+        "years":"May 2022 - Present",
+        "description":"Working on US client projects of Reactjs.Integrate designs and wireframes within the application code.Complete understamding of ReactJS and its fundamentals like JSX.Knowledge of CMS dashboard with their roles and functionality."
+      },
+      {
+        "company":"Neosoft Technologies, Indore",
+        "title":"Software Developer",
+        "years":"May 2021 - May 2022",
+        "description":"Understanding of how great design fuels an excellent user experience.Knowledge and proficiency with WordPress CMS.Demonstrable knowledge of front-end technologies such as HTML, CSS & JQuery.Working knowledge of MySQL databases.Ability to multitask while maintaining careful attention to detail.Ability to work effectively both individually and within a team environment"
+      },
+      {
+        "company":"Teleperformance, Indore, Indore",
+        "title":"Customer Support Executive",
+        "years":"Dec 2016 - Dec 2017",
+        "description":"Handle all the Query tickets/mail of the Uber or Ola Cabs Customers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"Laravel/CI",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"20%"
+      },
+      {
+        "name":"MySql",
+        "level":"50%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"70%"
+      },
+      {
+        "name":"Jquery",
+        "level":"40%"
+      },
+      {
+        "name":"JS",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
