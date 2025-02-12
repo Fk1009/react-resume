@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Farhan Khan",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Hi, I’m Farhan khan, a software developer with a passion for building innovative and efficient solutions. With expertise in PHP and JS framework, I specialize in creating full-stack applications that deliver great user experiences.I thrive on learning new technologies and collaborating on challenging projects. My goal is to continue growing as a developer while delivering high-quality software that meets both technical and user needs.",
     "image":"profilepic.jpg",
     "bio":"Want to involve myself in a challenging environment offering scope for Growth & Development and an opportunity to apply my learning to effectively contribute towards the achievement of the organizational objective.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -41,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Professional Capabilities",
     "education":[
       {
         "school":"Prashanti Institute of Technology & Science, Ujjain",
@@ -61,12 +61,12 @@
         "company":"Profilics Pvt Ltd, Ujjain",
         "title":"Software Developer",
         "years":"May 2023 - Present",
-        "description":"Working on US client projects of Vuejs.Working with Leads of home generation project."
+        "description":"Managing Vue.js/Nuxt.js/cakephp/symfony development for U.S. client projects, collaborating with leads on home generation initiatives"
       },
       {
         "company":"Valere Labs Pvt Ltd, Indore",
         "title":"Software Developer",
-        "years":"May 2022 - Present",
+        "years":"May 2022 - March 2023",
         "description":"Working on US client projects of Reactjs.Integrate designs and wireframes within the application code.Complete understamding of ReactJS and its fundamentals like JSX.Knowledge of CMS dashboard with their roles and functionality."
       },
       {
@@ -90,6 +90,10 @@
       {
         "name":"Laravel/CI",
         "level":"70%"
+      },
+      {
+        "name":"VueJs",
+        "level":"40%"
       },
       {
         "name":"ReactJs",
